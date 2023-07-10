@@ -1,1 +1,1 @@
-Basic usage of bash commands
+Shell redirections and filters
